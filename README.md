@@ -1,6 +1,11 @@
 ## Come-pitch-here
 Only have a minute? This is a flask web application that displays best pitches to get that job, customer or ace that interview in all fields including business, technology etc.
 
+## Screenshot of the page
+![come pitch](https://user-images.githubusercontent.com/36125591/167724133-182ddb20-4dc9-492a-b2c3-a782d9e8ac52.png)
+
+
+
 ## Technologies Used 
 
 - Python 3.8
@@ -23,6 +28,7 @@ Only have a minute? This is a flask web application that displays best pitches t
     6. Access the application through `localhost:5000`
   
 ## Known Bugs
+Its not sending account creation email
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/martin023/come-pitch-here/issues/new) by including your search query and the expected result.
 
