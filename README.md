@@ -1,4 +1,4 @@
-## come-pitch-here
+## Come-pitch-here
 Only have a minute? This is a flask web application that displays best pitches to get that job, customer or ace that interview in all fields including business, technology etc.
 
 ## Technologies Used 
@@ -16,7 +16,7 @@ Only have a minute? This is a flask web application that displays best pitches t
     2. Create a virtual environment
     3. Read the requirements file and Install all the requirements. Or run pip3 install -r requirements.txt to automatically install all the requirements
     4. Prepare environment variables
-    -export DATABASE_URL='postgresql+psycopg2://username:password@localhost/pitching'
+    -export DATABASE_URL='postgresql+psycopg2://username:password@localhost/pitch'
     -export SECRET_KEY='Your secret key'
     4. Run chmod a+x start.sh
     5. Run ./start.sh
