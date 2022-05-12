@@ -33,8 +33,8 @@ Its not sending account creation email
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/martin023/come-pitch-here/issues/new) by including your search query and the expected result.
 
 ## TO DO's
--Improve user interface.
--Profile picture addition.
+- Improve user interface.
+- Profile picture addition.
 
 ### License
 
